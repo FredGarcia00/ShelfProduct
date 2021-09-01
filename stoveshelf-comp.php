@@ -633,21 +633,21 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       <img src="./img/splash.jpg" width="100%" />
     </div>
     <div class="articleText">
-      <p>The best way I can put this is: I spend so much time in the kitchen, I came to accept the idea that the cooking process was a creative one, and that creativity always comes with a certain level of mess, clutter, and in some cases, unmitigated disaster.</p>
+      <p>The best way Sarah can put this is: she spends so much time in the kitchen, she came to accept the idea that the cooking process was a creative one, and that creativity always comes with a certain level of mess, clutter, and in some cases, unmitigated disaster.</p>
 
-      <p>I’ve been a stay-at-home mom for six years. My husband and I were married for almost three years before we had our son, and then my daughter came just barely a year after, so I’ve got my hands full (to say the least!) with keeping up on the house, but where I really shine is in the kitchen. Cooking has been a passion of mine ever since I was in high school, but I didn’t really start to get good at it until I was married.</p>
+      <p>Sarah has been a stay-at-home mom for six years. Sarah and her husband were married for almost three years before they had a son, and then a daughter came just barely a year after, so she's got her hands full (to say the least!) with keeping up on the house, but where she really shines is in the kitchen. Cooking has been a passion of Sarah's ever since she was in high school, but she didn’t really start to get good at it until she was married.</p>
 
-      <p>My biggest issue is that a lot of the meals I prepare require a good sense of timing. It’s not that the timing is hard, necessarily, because I’m a woman and multi-tasking was encoded into my DNA at birth; it’s more that things just get cluttered and built up on my counter space. Just picture me adding veggie broth and trying to keep my risotto at a constant stir as I’m running back and forth from my pantry to grab some spices and the vanilla extract, or the salt and pepper, squeezing lemon juice, zesting an orange, cracking the eggs and whipping those up for my signature French toasts, and I have the cheesy egg hash brown skillet going in the oven…it can get out of hand real quick. Usually by the end, there’s an assortment of spices, oils and implements spread across the counter, and it looks like a tornado ran through my kitchen.</p>
+      <p>Sarah's biggest issue is that a lot of the meals she prepared require a good sense of timing. It’s not that the timing is hard, necessarily, because she's a woman and multi-tasking was encoded into her DNA at birth; it’s more that things just get cluttered and built up on her counter space. Just picture her adding veggie broth and trying to keep her risotto at a constant stir as she's running back and forth from her pantry to grab some spices and the vanilla extract, or the salt and pepper, squeezing lemon juice, zesting an orange, cracking the eggs and whipping those up for her signature French toasts, and she has the cheesy egg hash brown skillet going in the oven…it can get out of hand real quick. Usually by the end, there’s an assortment of spices, oils and implements spread across the counter, and it looks like a tornado ran through my kitchen.</p>
 
       <div class="articleImgsmall">
         <img src="./img/messyCounter.jpg" width="100%"/>
       </div>
 
-      <p>I accepted the mess as an irreversible side-effect of the cooking experience.</p>
+      <p>Sarah accepted the mess as an irreversible side-effect of the cooking experience.</p>
 
-      <p>Until I found out about [Product Name].</p>
+      <p>Until she found out about [Product Name].</p>
 
-      <p>I was at a home improvement store a few weeks ago when I saw a man in the appliance section with a small crowd gathered around him. I was curious what this was about, so joined the crowd.</p>
+      <p>Sarah was at a home improvement store a few weeks ago when she saw a man in the appliance section with a small crowd gathered around him. She was curious what this was about, so she joined the crowd.</p>
 
         <p>
           “It’s called the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>” he was saying. “I’ve been a chef for thirty-one years, and in that time I’ve seen a lot of famous chefs and very successful restaurateurs use similar things in their kitchens. I thought to myself, ‘why don’t more people know about this? I could make something just like what these high-end chefs have, and make it affordable for the average home cook.’ So that’s what I did.”
@@ -661,13 +661,13 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
          “You see, just a pair of simple magnets, and now you have a shelf right over the stove that consolidates any add-ins you need for your dishes, as well as enough space to rest your implements. Just like that. No more clutter, easy access to cut down on mad dashes to the pantry. I opted for stainless steel, so it’s not an eye-sore in your kitchen.”
 		</i>
       </div>
-      <p>I was impressed. The [Product Name] looked like the one thing I was missing in my kitchen.</p>
+      <p>Sarah was impressed. The [Product Name] looked like the one thing she was missing in her kitchen.</p>
 
-      <p>“How much is it and where do I get it?” I asked, excited.</p>
+      <p>“How much is it and where do I get it?” Sarah asked, excited.</p>
 
       <p>“Oh, ma’am, this here is my prototype. I wanted to keep the price low enough for the average home chef to afford, so I don’t sell it in stores. By cutting out the middle man, I’m able to offer this to you for [price]. And,” he held up a finger, “the best part of this is the magnet idea I had. No tools required for installation. Just place it where you like it, move the magnets if you want a custom fit, and it’s good to go.”</p>
 
-      <p>I was floored. I got the official website from him, and by the time I got home, the first thing I did was research the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>.</p>
+      <p>Sarah was floored. She got the official website from him, and by the time she got home, the first thing she did was research the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>.</p>
     <div class="articleSubheader">
       What Is It And How Does It Work?
     </div>
@@ -769,22 +769,22 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
     </div>
    
     <div class="articleSubheader">
-    I Tried It Myself…Here’s What I Found
+    Sarah Tried It Herself…Here’s What She Found
     </div>
     <div class="articleText">
-      <p>After I placed my order on the <a class="articleLink" href="<?=$exitLink;?>">official website</a>, my [Product Name] showed up at my door 2 days later. I was amazed…that’s even faster than Amazon nowadays! The excitement didn’t end there. As a homemaker, my job is never really done, and I was just about to prepare dinner, so the timing was perfect for me to try it out.</p>
+      <p>After Sarah placed my order on the <a class="articleLink" href="<?=$exitLink;?>">official website</a>, her [Product Name] showed up at my door 2 days later. She was amazed…that’s even faster than Amazon nowadays! The excitement didn’t end there. As a homemaker, her job is never really done, and she was just about to prepare dinner, so the timing was perfect for her to try it out.</p>
 
       <div class="articleImgsmall" style="width:300px;">
       <img src="./img/unboxing.jpg" width="100%" style="border: 1px solid #ddd;" />
     </div>
-	  <p>I unboxed it, amazed at the quality of the shelf in my hands. The stainless steel was sturdy but light, and the magnets snapped right on. I placed it on the top of my stove and…it just looked great. I felt like it was supposed to be there, like my stove had been missing this all along. Just look at how I was able to consolidate my heavy-use spices and oils:</p>
+	  <p>Sarah unboxed it, amazed at the quality of the shelf in her hands. The stainless steel was sturdy but light, and the magnets snapped right on. Sarah placed it on the top of her stove and…it just looked great. She felt like it was supposed to be there, like her stove had been missing this all along. Just look at how she was able to consolidate her heavy-use spices and oils:</p>
       <div class="articleImg">
         <img src="./img/inUse.jpg" width="100%" />
       </div>
 
-      <p>When you spend as much time in the kitchen as I do, you understand the benefits right away. I no longer have to keep my recipe add-ins sprawled around my counter, nor do I have to sprint back and forth from my pantry as I’m monitoring my stove-top and oven dishes. The website mentioned streamlining the cooking process, and I have to admit, that is exactly what I experience with my <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>. Having everything on the shelf, right there in the middle of the action, is so useful!</p>
+      <p>When you spend as much time in the kitchen as Sarah does, you understand the benefits right away. She no longer has to keep her recipe add-ins sprawled around her counter, nor does she have to sprint back and forth from her pantry as she's monitoring her stove-top and oven dishes. The website mentioned streamlining the cooking process, and she has to admit, that is exactly what she experienced with her <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>. Having everything on the shelf, right there in the middle of the action, is so useful!</p>
 
-      <p>It’s pretty easy to see all those five star reviews were there for a reason. I appreciate the organization and, honestly, the visual appeal of the [Product Name] on my stove. The shelf itself looks great, and the common-use items lined up on it are just one more thing that helps me keep things organized. I feel like I’m in on a secret that was previously only known to the professionals.</p>
+      <p>It’s pretty easy to see all those five star reviews were there for a reason. Sarah liked the organization and, honestly, the visual appeal of the [Product Name] on her stove. The shelf itself looks great, and the common-use items lined up on it are just one more thing that helps her keep things organized. Sarah feels like she's in on a secret that was previously only known to the professionals.</p>
 
       <div class="articleImg" style="width:300px;">
         <img src="./img/woman.jpg" width="100%" />
@@ -792,9 +792,9 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
 
       <p>And oh, yes, people noticed.</p>
 
-      <p>We have friends over just about every weekend, and it never fails they notice my new [Product Name] when they see me working in the kitchen. It’s always the same reaction, things like “Wow, that’s pretty cool! Where’d you get something like that?” or, “Woah, that’s a cute setup you have there, did that come with the stove?” I’m more than happy to point people to the website, and I know a few of my friends have already ordered their own [Product Name]s for their stoves.</p>
+      <p>They have friends over just about every weekend, and it never fails they notice their new [Product Name] when they see her working in the kitchen. It’s always the same reaction, things like “Wow, that’s pretty cool! Where’d you get something like that?” or, “Woah, that’s a cute setup you have there, did that come with the stove?” Sarah is more than happy to point people to the website, and she knows a few of her friends have already ordered their own [Product Name]s for their stoves.</p>
 
-      <p>To put it plainly, the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a> is exactly what I needed to simplify my cooking adventures. It works great for me, and I know it will work great for you, too. </p>
+      <p>To put it plainly, the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a> is exactly what Sarah needed to simplify her cooking adventures. It works great for her, and she knows it will work great for you, too. </p>
     </div>
     <div class="articleSubheader">
       How Much Does It Cost?
